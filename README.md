@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/carlosaacf" target="blank"><img src="https://img.shields.io/twitter/follow/carlosaacf?logo=twitter&style=for-the-badge" alt="carlosaacf" /></a> </p>
 
-- 🔭 I’m currently working on IBM [Consulting](https://www.ibm.com/us-en/)
+- 🔭 I’m currently working on IBM at [Consulting](https://www.ibm.com/us-en/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/carlosaacf](https://github.com/carlosaacf)
 
