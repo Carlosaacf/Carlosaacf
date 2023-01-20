@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Fonseca</h1>
-<h3 align="center">I am study Analistics and Software development and now im Developer Java Associate at IBM.</h3>
+<h3 align="center">I am study Analistics and Software development and now im Software Developer Front end at IBM.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosaacf&label=Profile%20views&color=0e75b6&style=flat" alt="carlosaacf" /> </p>
 
@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/carlosaacf](https://github.com/carlosaacf)
 
-- 💬 Ask me about **Java, SQL, HTML**
+- 💬 Ask me about **Javascript, Java, SQL, HTML, Angular, CSS**
 
 - 📫 How to reach me **carlosaacf@gmail.com**
 
-- ⚡ Fun fact **i love playing guitar in my spare time and i like to play age of empires on pc**
+- ⚡ Fun fact **i love playing guitar in my spare time and i like to play age of empires 2 on pc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
