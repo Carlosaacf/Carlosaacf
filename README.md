@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/carlosaacf](https://github.com/carlosaacf)
 
-- 💬 Ask me about **Javascript, Java, SQL, HTML, Angular, CSS**
+- 💬 Ask me about ** HTML, CSS e Javascript com Angular, Alem de Java, Spring e um pouco de SQL**
 
 - 📫 How to reach me **carlosaacf@gmail.com**
 
