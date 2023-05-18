@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **carlosaacf@gmail.com**
 
-- ⚡ Fun fact **i love playing guitar in my spare time and i like to play age of empires 2 on pc**
+- ⚡ Fun fact **I have a passion for playing the guitar in my spare time, and I enjoy immersing myself in the world of Age of Empires 2 on PC.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
